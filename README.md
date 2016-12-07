@@ -1,0 +1,2 @@
+# HouseRobot-2D-PC
+House Robot is a 2D game I've been developing for the final year project of my degree. It's being created to accompany a dissertation I'm writing on Dynamic Difficulty Adjustment (DDA). The dissertation has a strong emphasis on AI behaviours and pathfinding, which certain implementations of DDA concerning opponent modelling rely upon. The game was written from scratch in C++ using the DirectX9 libraries for graphics. It utilises multi-threading to optimise performance with regards to pathfinding algorithms.
